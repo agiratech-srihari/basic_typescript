@@ -1,4 +1,4 @@
-class player {
+export class player {
     name:string;
     health:number;
     isInvincible:boolean;
